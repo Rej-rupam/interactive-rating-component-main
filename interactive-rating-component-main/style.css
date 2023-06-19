@@ -1,0 +1,116 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;500;600;700;800;900&family=Outfit:wght@100;200;300;400;500;600;700;800;900&family=Overpass:wght@100;200;300;400;500;600;700;800;900&display=swap");
+* {
+  margin: 0px;
+}
+.page {
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: hsl(0, 0%, 0%);
+}
+.card {
+  height: 320px;
+  width: 320px;
+  background-color: hsl(216, 12%, 8%);
+  padding: 20px;
+  border-radius: 20px;
+}
+.icon {
+  height: 30px;
+  width: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 35px;
+  background-color: hsl(213, 19%, 18%);
+}
+.text h2 {
+  color: hsl(0, 0%, 100%);
+  margin: 17px 0px 12px 0px;
+  font-family: "Montserrat", sans-serif;
+}
+.text p {
+  color: hsl(217, 12%, 63%);
+  margin: 15px 0px 12px 0px;
+  font-family: "Montserrat", sans-serif;
+}
+.numbers {
+  display: flex;
+  justify-content: space-between;
+  margin: 10px 0px 5px 0px;
+  font-family: "Montserrat", sans-serif;
+}
+.box1 {
+  height: 40px;
+  width: 40px;
+  color: hsl(217, 12%, 63%);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 35px;
+  background-color: hsl(213, 19%, 18%);
+  font-family: "Montserrat", sans-serif;
+}
+.box2 {
+  height: 40px;
+  width: 40px;
+  color: hsl(217, 12%, 63%);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 35px;
+  background-color: hsl(213, 19%, 18%);
+  font-family: "Montserrat", sans-serif;
+}
+.box3 {
+  height: 40px;
+  width: 40px;
+  color: hsl(217, 12%, 63%);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 35px;
+  background-color: hsl(213, 19%, 18%);
+  font-family: "Montserrat", sans-serif;
+}
+.box4 {
+  height: 40px;
+  width: 40px;
+  color: hsl(217, 12%, 63%);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 35px;
+  background-color: hsl(213, 19%, 18%);
+  font-family: "Montserrat", sans-serif;
+}
+.box5 {
+  height: 40px;
+  width: 40px;
+  color: hsl(217, 12%, 63%);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 35px;
+  background-color: hsl(213, 19%, 18%);
+  font-family: "Montserrat", sans-serif;
+}
+.switch {
+  height: 35px;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 20px 0px 0px 0px;
+}
+.switch button {
+  height: 100%;
+  width: 80%;
+  border-radius: 100px;
+  background-color: hsl(25, 97%, 53%);
+  border: none;
+  color: hsl(0, 0%, 100%);
+  font-size: 18px;
+  font-family: "Montserrat", sans-serif;
+}
